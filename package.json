@@ -1,0 +1,31 @@
+{
+  "name": "react-router-basic-forked",
+  "version": "0.0.68",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "axios": "0.27.2",
+    "leaflet": "1.8.0",
+    "prop-types": "15.8.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-geocode": "0.2.3",
+    "react-google-autocomplete": "2.6.1",
+    "react-google-maps": "9.4.5",
+    "react-leaflet": "4.0.0",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "latest",
+    "react-stars": "^2.2.5",
+    "ts-baseline": "0.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
